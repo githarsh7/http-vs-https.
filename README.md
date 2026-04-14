@@ -59,5 +59,4 @@ Understanding these protocols is essential for building secure and reliable web 
 5. Secure data transfer begins.
 
 
-🤝 Connect With Me :
-LinkedIN - www.linkedin.com/in/harshaasg
+🤝 Connect With Me : LinkedIN - www.linkedin.com/in/harshaasg
