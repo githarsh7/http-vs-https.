@@ -1,4 +1,4 @@
-# 🌐 HTTP vs HTTPS
+## 🌐 HTTP vs HTTPS
 
 ## Overview
 This repository explains the differences between **HTTP (HyperText Transfer Protocol)** and **HTTPS (HyperText Transfer Protocol Secure)** — the core protocols used for communication on the web.
@@ -60,4 +60,6 @@ Understanding these protocols is essential for building secure and reliable web 
 
 
 ## Connect With Me 🤝 : 
-www.linkedin.com/in/harshaasg
+- LinkedIn: [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+
+---
