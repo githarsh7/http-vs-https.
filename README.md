@@ -18,7 +18,7 @@ Understanding these protocols is essential for building secure and reliable web 
 - No encryption or security
 
 ### Limitations:
-- Vulnerable to attacks (e.g., Man-in-the-Middle)
+- Vulnerable to attacks
 - No data protection
 - No authentication
 
@@ -37,7 +37,7 @@ Understanding these protocols is essential for building secure and reliable web 
 ### Advantages:
 - Protects sensitive data (passwords, credit cards)
 - Prevents data tampering
-- Builds user trust (🔒 padlock in browser)
+- Builds user trust
 
 ---
 
@@ -46,8 +46,7 @@ Understanding these protocols is essential for building secure and reliable web 
 - Protects user data from hackers  
 - Ensures privacy and confidentiality  
 - Improves website credibility  
-- Required for modern web features (e.g., payments, login systems)
-
+- Required for modern web features 
 ---
 
 ## How HTTPS Works (Simple Flow)
